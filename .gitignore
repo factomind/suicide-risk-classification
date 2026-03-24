@@ -1,3 +1,5 @@
+outputs/
+dataset.csv
 __pycache__/
-*.pyc
-*.pyo
+*.joblib
+*.safetensors

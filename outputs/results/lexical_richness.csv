@@ -1,6 +1,0 @@
-Label,total_tokens,mean_tokens,mean_vocab,mean_ttr
-Supportive,67596,625.889,281.639,0.672
-Indicator,68055,687.424,320.788,0.656
-Ideation,97888,572.444,291.48,0.666
-Behavior,56560,734.545,350.623,0.628
-Attempt,32025,711.667,353.911,0.634
