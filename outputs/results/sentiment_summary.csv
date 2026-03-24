@@ -1,0 +1,8 @@
+,polarity,polarity,polarity,subjectivity,subjectivity,subjectivity
+,mean,median,std,mean,median,std
+Label,,,,,,
+Supportive,0.119,0.122,0.116,0.533,0.539,0.107
+Indicator,0.097,0.101,0.102,0.524,0.522,0.079
+Ideation,0.077,0.08,0.112,0.525,0.525,0.072
+Behavior,0.077,0.064,0.115,0.535,0.536,0.068
+Attempt,0.062,0.073,0.081,0.524,0.517,0.056
